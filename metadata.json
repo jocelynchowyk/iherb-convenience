@@ -1,0 +1,8 @@
+{
+  "name": "iHerb Singapore — Supplements",
+  "description": "Shop vitamins, minerals, probiotics, omega-3 fish oil, collagen, and sports supplements shipped direct to Singapore in SG$.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
